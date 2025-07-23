@@ -70,7 +70,7 @@ export default function Login() {
             </div>
             <CardTitle className="text-2xl font-bold text-foreground">Welcome Back</CardTitle>
             <CardDescription className="text-muted-foreground">
-              Sign in to access AidLink Sri Lanka
+              Sign in to access CareClick Sri Lanka
             </CardDescription>
           </CardHeader>
 

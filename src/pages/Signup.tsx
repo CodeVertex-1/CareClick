@@ -95,7 +95,7 @@ export default function Signup() {
             <div className="mx-auto bg-gradient-primary p-3 rounded-full w-16 h-16 mb-4">
               <Heart className="h-10 w-10 text-primary-foreground" />
             </div>
-            <CardTitle className="text-2xl font-bold text-foreground">Join AidLink</CardTitle>
+            <CardTitle className="text-2xl font-bold text-foreground">Join CareClick</CardTitle>
             <CardDescription className="text-muted-foreground">
               Create your account to access healthcare services
             </CardDescription>
